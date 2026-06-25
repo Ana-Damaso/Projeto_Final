@@ -1,4 +1,4 @@
 yfinance
-sklearn
+scikit-learngit s
 pandas
 matplotlib
